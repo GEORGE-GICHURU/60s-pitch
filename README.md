@@ -40,7 +40,7 @@ As a user I would like:
 
 * Click [one-minute-pitch] <br/>
   or <br/>
-* Copy [One Minute Pitch] and  Paste the link on your prefered browerser
+* Copy [One Minute Pitch] and  Paste the link on your prefered browser
 
 This requires internet connection.
 
