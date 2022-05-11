@@ -40,9 +40,26 @@ As a user I would like:
 
 * Click [one-minute-pitch](https://python-one-minute-pitch.herokuapp.com) <br/>
   or <br/>
-* Copy [One Minute Pitch](https://python-one-minute-pitch.herokuapp.com) and  Paste the link on your prefered browerser
+* Copy [One Minute Pitch] and  Paste the link on your prefered browerser
 
 This requires internet connection.
+
+## Running the Application
+
+- Creating the virtual environment
+
+        $ python3.10.4 -m venv --without-pip env
+        $ source env/bin/activate
+        $ curl https://bootstrap.pypa.io/get-pip.py | python
+
+- Installing Flask and other Modules
+
+        $ python3.9 -m pip install Flask
+        $ python3.9 -m pip install Flask-Bootstrap
+        $ python3.9 -m pip install Flask-Script
+        $ python3.9 pip install flask-login
+        $ python3.9 pip install flask-migrate
+        $ python3.9 pip install flask-SQLAlchemy
 
 ## Known Bugs
 
