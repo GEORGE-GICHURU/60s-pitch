@@ -19,9 +19,9 @@ class TestComment(unittest.TestCase):
 
         self.group_pick_up = Group( name="Pick-up lines" )
 
-        self.user_gichuru = User(username = "Gichuru", password = "banana", email = "jane@doe.com" )
+        self.user_gichuru = User(username = "Gichuru", password = "banana", email = "gichurugeorge092@gmail.com" )
 
-        self.new_line = Line( line_content="I am Groot", group = self.group_pick_up, user = self.user_jane )
+        self.new_line = Line( line_content="I am Groot", group = self.group_pick_up, user = self.user_gichuru )
 
         self.new_comment = Comment(comment_content="You need more practice")
 
