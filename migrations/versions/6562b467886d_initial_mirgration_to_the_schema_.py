@@ -1,7 +1,7 @@
 """Initial mirgration to the schema containing the users table
 Revision ID: 6562b467886d
 Revises: 
-Create Date: 2017-10-30 10:11:12.865158
+Create Date: 2022-5-11 10:11:12.865158
 """
 from alembic import op
 import sqlalchemy as sa
