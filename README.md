@@ -38,7 +38,7 @@ As a user I would like:
 
 ## Setup/Installation Requirements
 
-* Click [one-minute-pitch] (https://python-one-minute-pitch.herokuapp.com/)<br/>
+* Click [one-minute-pitch] <br/>
   or <br/>
 * Copy [One Minute Pitch] and  Paste the link on your prefered browser
 
