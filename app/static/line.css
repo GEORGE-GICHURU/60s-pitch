@@ -1,0 +1,35 @@
+/*Styles for the Line page*/
+.pitch-content, .pitch-author, .comment-content, .comment-author, .comment-create, .comment-header {
+    font-family: 'Habibi', serif;
+}
+
+.comment-create {
+    text-align: right;
+}
+
+.col-xs-12.col-sm-12.col-md-8.col-lg-8.well.comment-well {
+    background-color: #FDFEFE;
+    border-color: #D6EAF8;  
+}
+
+.pitch-content:hover, .comment-create a:hover, .glyphicon:hover {
+    color: #5DADE2;
+    text-decoration: none;
+}
+
+i.glyphicon.glyphicon-menu-left.back-icon {
+    margin-top: 1.25em;
+    font-size: 2em;
+}
+
+i.glyphicon, .votes {
+    font-size: 1.25em;
+}
+
+i.glyphicon {
+    color: #337ab7;
+}
+
+.votes {
+    margin-left: 0.10em;
+}
